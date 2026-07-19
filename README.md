@@ -5,6 +5,8 @@ This repository showcases my portfolio of end-to-end projects demonstrating how 
 
 Using Python, PostgreSQL, SQL, Machine Learning, and Power BI, I developed analytical frameworks that transform raw business data into market intelligence through data engineering, predictive analytics, visualization, and executive reporting.
 
+
+
 🧩 Tech Stack
 Python (Pandas, NumPy, Scikit-learn)
 PostgreSQL
@@ -12,6 +14,8 @@ SQL
 Power BI
 Jupyter Notebook
 Excel
+
+
 📁 Projects Included
 🏭 1. Veltron Electronics – Digital Twin of a Virtual Consumer Electronics Company
 
@@ -29,6 +33,8 @@ Evaluated product portfolio performance and revenue contribution.
 Analyzed inventory optimization and supply chain efficiency.
 Modeled seasonal demand fluctuations and promotional impacts.
 Generated executive KPIs for business performance monitoring.
+
+
 🚚 2. Supply Chain Intelligence Hub
 
 Tools: Python • Machine Learning • Power BI
@@ -45,6 +51,8 @@ Identified sourcing risks through clustering and risk classification.
 Evaluated inventory, logistics, and operational efficiency.
 Segmented products into strategic business groups.
 Generated executive KPIs to support supply chain and procurement decisions.
+
+
 📦 3. E-Commerce Sales Dashboard
 
 Tools: PostgreSQL (SQL) • Power BI
@@ -55,11 +63,14 @@ Tools: PostgreSQL (SQL) • Power BI
 
 🔹 Applied market analysis techniques to evaluate the Electronics category, supporting data-driven insights for market performance and business strategy.
 
+
 Key Insights
 Evaluated Electronics category sales and profitability against other product categories.
 Identified high-performing product segments and regional demand patterns.
 Analyzed seasonal sales trends and customer purchasing behaviour.
 Generated business intelligence to support market analysis and strategic decision-making.
+
+
 📊 Market Research Skills Demonstrated
 Consumer Electronics Market Analysis
 Market Sizing & Category Performance Analysis
@@ -72,18 +83,22 @@ Business Intelligence & Dashboard Development
 Data Cleaning & ETL Pipeline Development
 Machine Learning for Business Analytics
 Executive Reporting & Strategic Insights
+
+
 🛠️ How to Use
 Explore individual project folders.
 Open Jupyter Notebooks to review the analytical workflows.
 Execute SQL scripts for ETL and data transformation.
 Open Power BI (.pbix) files to interact with dashboards.
 Review project documentation for methodology and business insights.
+
+
 🎯 Career Objective
 
 To leverage market research, business intelligence, and data analytics to generate actionable insights for the consumer electronics industry, supporting market analysis, competitive intelligence, product strategy, and business growth.
 
+
 👤 Author
 
 Shil Gawande
-
-Aspiring Electronics Market Research Analyst | Market Intelligence | Business Intelligence | SQL | Python | Machine Learning | Power BI
+Aspiring Electronics Market Research Analyst | Market Intelligence | Business Intelligence | SQL | Python | Machine Learning | Power B
