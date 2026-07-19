@@ -1,4 +1,6 @@
 📊 Electronics Market Research & Business Intelligence Portfolio
+
+
 🚀 Overview
 
 This repository showcases my portfolio of end-to-end projects demonstrating how data analytics, market research methodologies, and business intelligence can be applied to the consumer electronics industry. The projects focus on analyzing market demand, benchmarking suppliers, evaluating product performance, simulating business operations, and generating actionable insights to support strategic decision-making.
@@ -16,7 +18,9 @@ Jupyter Notebook
 Excel
 
 
+
 📁 Projects Included
+
 🏭 1. Veltron Electronics – Digital Twin of a Virtual Consumer Electronics Company
 
 Tools: Python • Pandas • NumPy
